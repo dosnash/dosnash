@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on any available project
 - 📫 How to reach me 
-Call/WhatsApp: +2347066745479
+Email: ovansaemmanuel@gmail.com
 
 <!---
 dosnash/dosnash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
