@@ -1,4 +1,4 @@
-- <h1>👋 Hi, I’m @dosnash </h1>
+- <h1>👋 Hi, I’m Emmanuel </h1>
 - 👀 I’m interested in Web programming
 - 🌱 I’m currently enhancing my Next.js skills
 - 💞️ I’m looking to collaborate on any available project
